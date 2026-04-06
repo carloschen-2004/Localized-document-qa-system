@@ -36,7 +36,7 @@
 
 ```bash
 # 克隆项目
-cd Local_Pdf_Chat_RAG
+cd  document_qa_system
 
 # 安装 Python 依赖
 pip install -r requirements.txt
@@ -97,7 +97,7 @@ SILICONFLOW_MODEL_NAME = "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B"
 ## 📂 项目结构
 
 ```
-Local_Pdf_Chat_RAG/
+document_qa_system/
 ├── rag_demo.py              # Gradio Web UI 主程序
 ├── api_router.py            # FastAPI REST API 服务
 ├── config.py                # 配置文件
